@@ -5,7 +5,6 @@
 
 </div> <br/>
 👨‍💻 About Me
-yaml
 name: Nisha Jamdar
 role: Cybersecurity Student
 location: Pune, India
